@@ -75,7 +75,7 @@ main {
 }
 
 /*change from class to element selector "section"*/
-.sections{
+section{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,19 +84,20 @@ main {
     color: #ffffff;
 }
 
-/*consolidate height*/
-.sections img {
+/*consolidate section height*/
+section img {
     max-height: 200px;
 }
 /*consolidate height*/
 
-/* combine to .sections h2*/
-.sections h2 {
+/* combine to section h2*/
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* combine to .sections h2*/
+/* combine to section h2*/
 
+/*changed to aside element selector*/
 aside {
     margin-right: 20px;
     padding: 20px;
