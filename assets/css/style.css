@@ -74,6 +74,7 @@ main {
     margin-left: 20px;
 }
 
+/*change from class to element selector "section"*/
 .sections{
     margin-bottom: 20px;
     padding: 50px;
@@ -96,7 +97,7 @@ main {
 }
 /* combine to .sections h2*/
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
